@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"],
+        "getter-return": "always"
+        "array-bracket-spacing": "always",
+        "array-element-newline": "always",
+        "keyword-spacing": "always"
+    }
+}
